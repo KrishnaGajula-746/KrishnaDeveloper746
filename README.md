@@ -3,18 +3,8 @@
 square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishna-gajula-0a9b76275/)](https://www.linkedin.com/in/krishna-gajula-0a9b76275/)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes) 
-
-
-
-
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krishnadeveloper746&column=7"/>
-  </a>
-</div>
+Front End Developer
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. front-end development (Angular14,HTML5, CSS3, Javascript, Responsive) Server Administrator(AWS),database(Mysql), CI/CD(Docker) 
 
 Languages and Tools: 
 
