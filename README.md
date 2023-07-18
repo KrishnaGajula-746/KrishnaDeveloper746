@@ -1,6 +1,5 @@
 ### Hi Developers 👋
 
-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishna-gajula-0a9b76275/)](https://www.linkedin.com/in/krishna-gajula-0a9b76275/)
 
 I'm
 Front End Developer
